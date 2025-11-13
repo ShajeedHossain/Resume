@@ -45,6 +45,8 @@ _Python, Discord API, Gemini API_
 
 - Built a Discord chatbot using **Google Gemini API** and **Python** for contextual conversations.
 
+
+
 ---
 
 ## **Experience**

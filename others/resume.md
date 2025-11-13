@@ -35,12 +35,13 @@ _Oct 2024 – Dec 2024_
 
 ## **Projects**
 
-### [**Cold Email Generator**](https://github.com/ShajeedHossain/cold_email_generator)
+### [**Grocer-E**](https://github.com/thdihan/Grocer-E)
 
-_Python, LangChain, ChromaDB, Streamlit_
+_ReactJS, NodeJS, CSS, PostgreSQL_
 
-- Developed an AI-powered tool that extracts job descriptions from URLs and generates tailored outreach emails—demonstrating user empathy and automation thinking.
-- Applied product mindset by iteratively refining prompts and layouts based on user feedback.
+- Created a Chaldal-inspired ecommerce site with real-time cart and order management using ReactJS and NodeJS.
+- Defined core product flow and prioritized features to improve user journey and checkout efficiency.
+
 
 ### [**Collabor8**](https://github.com/AsifCantCode/Collabor8)
 
@@ -48,6 +49,13 @@ _ReactJS, NodeJS, PostgreSQL, Socket_
 
 - Built a peer-mentoring platform enabling one-on-one sessions and a reward system—focusing on user experience and community growth.
 - Conducted informal user tests and improved feature flow, boosting usability and responsiveness.
+
+### [**Cold Email Generator**](https://github.com/ShajeedHossain/cold_email_generator)
+
+_Python, LangChain, ChromaDB, Streamlit_
+
+- Developed an AI-powered tool that extracts job descriptions from URLs and generates tailored outreach emails—demonstrating user empathy and automation thinking.
+- Applied product mindset by iteratively refining prompts and layouts based on user feedback.
 
 ### [**StudyMate**](https://github.com/AsifCantCode/StudyMate)
 
