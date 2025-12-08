@@ -33,6 +33,12 @@ _ReactJS, NodeJS, CSS, Socket, PostgreSQL_
 
 - Developed a platform with **ReactJS**, **NodeJS**, enabling one-on-one mentoring and a reward system.
 
+### [**Grocer-E**](https://github.com/thdihan/Grocer-E)
+
+_ReactJS, NodeJS, CSS, PostgreSQL_
+
+- Created a Chaldal-inspired ecommerce site with real-time cart and order management using ReactJS and NodeJS.
+
 ### [**Cold Email Generator**](https://github.com/ShajeedHossain/cold_email_generator)
 
 _Python, GroqChat, LangChain, ChromaDB, Streamlit_
