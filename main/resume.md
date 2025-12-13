@@ -13,8 +13,8 @@ Computer Science and Engineering graduate from the Islamic University of Technol
 ## **Technical Skills**
 
 - **Programming Languages:** Python, C/C++, Java, JavaScript, Dart, HTML, CSS
-- **Frameworks & Libraries:** ReactJS, Node.js/Express, Tailwind CSS, Flutter, NumPy, Pandas, PyTorch
-- **Databases & Tools:** MySQL, PostgreSQL, Oracle, ChromaDB, Git, Docker, Retool, Notion, Figma
+- **Frameworks & Libraries:** ReactJS, Node.js/Express, FastAPI, Tailwind CSS, Flutter, NumPy, Pandas, PyTorch
+- **Databases & Tools:** MySQL, PostgreSQL, MongoDB, ChromaDB, SQLAlchemy, Oracle, Git, Docker, Retool, Notion, Figma
 - **Languages:** Bangla, English
 
 ---
@@ -32,6 +32,12 @@ _Python, Machine Learning_
 _ReactJS, NodeJS, CSS, Socket, PostgreSQL_
 
 - Developed a platform with **ReactJS**, **NodeJS**, enabling one-on-one mentoring and a reward system.
+
+### [**SimSocial**](https://github.com/ShajeedHossain/SimSocial)
+
+_Python, FastAPI, SQLAlchemy, ImageKit.io_
+
+- Developed a photo/video sharing web application using Streamlit, FastAPI, SQLAlchemy, and ImageKit.io for optimized media storage and delivery.
 
 ### [**Grocer-E**](https://github.com/thdihan/Grocer-E)
 
