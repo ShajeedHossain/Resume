@@ -51,13 +51,17 @@ _Python, GroqChat, LangChain, ChromaDB, Streamlit_
 
 - Created a tool that extracts job requirements from URLs and generates personalized cold emails using **Python** and **LangChain**.
 
+### [**Project.Z**](https://github.com/ShajeedHossain/Project.Z)
+
+_Python, Django, Django REST Framework, SQLite, django-filter_
+
+- Built a RESTful API to log and manage door access events with automatic timestamping, signal-based system logging, and filterable query support, backed by unit tests.
+
 ### [**SamGEMINI**](https://github.com/ShajeedHossain/SamGEMINI-A-Discord-Chat-Bot)
 
 _Python, Discord API, Gemini API_
 
 - Built a Discord chatbot using **Google Gemini API** and **Python** for contextual conversations.
-
-
 
 ---
 
@@ -78,13 +82,15 @@ _Oct 2024 – Dec 2024_
 
 ### **Islamic University of Technology (IUT)**
 
-_B.Sc. in Computer Science and Engineering | CGPA: 3.91/4.00_  
+<!-- _B.Sc. in Computer Science and Engineering | CGPA: 3.91/4.00_   -->
+_B.Sc. in Computer Science and Engineering_
 _Gazipur, Bangladesh_  
 _Graduated: 2025_
 
 ### **Rajuk Uttara Model College**
 
-_H.S.C. in Science | GPA: 5.00/5.00_  
+<!-- _H.S.C. in Science | GPA: 5.00/5.00_   -->
+_H.S.C. in Science_
 _Uttara, Bangladesh_  
 _Graduated: 2020_
 
